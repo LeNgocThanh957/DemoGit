@@ -1,0 +1,6 @@
+git init: Khởi tạo local repository
+git add <tên file>: Đưa các thay đổi của file cào trong vùng nhớ staging area
+*. git add .: Đẩy hết tất cả các file
+git commit -m "ghi chú gì đó": Để đưa các thay dổi từ staging area vào local repository và lưu lại 1 snapshot tại thơ điểm đó
+git remote: kết nối local repository với remote repository
+git push origin master: Đẩy các thay đổi từ local repository lên remote repository
